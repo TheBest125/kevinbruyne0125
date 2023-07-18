@@ -26,7 +26,7 @@
 - 🌱 Currently bookworming on AI/ML/LLM dev/meta, building a portfolio, and testing out new technologies.
 - 🧁 Baking/cooking/friends & family time
 - 🎮 PC games, card games, RTS/TCG
-- 🕹 Retro game design aesthetics (8-32 bit pixel art things)
+- 🏐🏀⚽ I like Sports very much.
 
 <br>
 
@@ -36,7 +36,17 @@
 <a href="https://github.com/christianebs/">
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kevinbruyne0125&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699&include_all_commits=true&count_private=true" /> -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbruyne0125&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699"/>
+  <p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=kevinbruyne0125&column=7&theme=light"/>
+</p>
 </div>
+  
+<p align="center">
+    <a href="https://wakatime.com/@kevinbruyne0125">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 <br>
 
